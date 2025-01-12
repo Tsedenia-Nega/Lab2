@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G7hE3zYaUtUMAIfsXgA9/TU0nokSNXYvR32y3ZeOKf+EfE18MlbHYtzc01m+UaqcWuVVKzc6qhIt/D4vz1yeDw==",
+  "dgSpecHash": "fv8gnOsCq8Aan3ZiCPcPgNcW7rEcMihWqeAS5V9n/4n1MzIBNrjpduxmicSDwjx9AN6G92tjRoswjV2AcbQ2Vw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Desktop\\Lab2\\pokedex\\pokedex.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\project\\Lab2\\Lab2\\pokedex\\pokedex.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

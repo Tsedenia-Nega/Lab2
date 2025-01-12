@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\Lab2\\pokedex\\pokedex.csproj": {}
+    "C:\\Users\\hp\\Desktop\\project\\Lab2\\Lab2\\pokedex\\pokedex.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\Lab2\\pokedex\\pokedex.csproj": {
+    "C:\\Users\\hp\\Desktop\\project\\Lab2\\Lab2\\pokedex\\pokedex.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\Lab2\\pokedex\\pokedex.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\project\\Lab2\\Lab2\\pokedex\\pokedex.csproj",
         "projectName": "pokedex",
-        "projectPath": "C:\\Users\\hp\\Desktop\\Lab2\\pokedex\\pokedex.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\project\\Lab2\\Lab2\\pokedex\\pokedex.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\Lab2\\pokedex\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\project\\Lab2\\Lab2\\pokedex\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
